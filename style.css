@@ -1,0 +1,51 @@
+body{
+
+    background-color: blueviolet;
+    
+    }
+    
+    
+    h1{
+    
+    text-align: center;
+    color: azure;
+    
+    }
+    
+    .products{
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    
+    
+    }
+    
+    
+    H4{
+    color: lavenderblush;
+    
+    
+    
+    
+    }
+    
+    .footer
+    {
+         display: flex;
+             background-color: aqua;
+         
+    
+    
+    
+    }
+    
+    .footer1
+    {
+       display: flex; 
+    
+       margin-left: 1000px;
+    
+    
+    }
